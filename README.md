@@ -11,5 +11,5 @@
 
 Ссылка на Google Colab часть 1: https://colab.research.google.com/drive/1PwGUdx7RDUuYQ0BxLPN-RfK_-L3ECWJ0#scrollTo=ar_Tgo_i4nKl
 
-Ссылка на Google Colab часть 2: https://colab.research.google.com/drive/1kv-bhhU1ykCOhl7OxzmKZN1l1qzOLL_r?usp=sharing#scrollTo=FD7C2zjaMumH
+Ссылка на Google Colab часть 2: https://colab.research.google.com/drive/1ioNFodMunVtfiIsOaBSoMdaGfcJTWeS_?usp=sharing
 
