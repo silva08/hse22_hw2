@@ -8,3 +8,8 @@
 Сколько из них удалось аннотировать с помощью БД SwissProt: 53
 
 Какое количествово белков остались без аннотации функции: 3510
+
+Ссылка на Google Colab часть 1: https://colab.research.google.com/drive/1PwGUdx7RDUuYQ0BxLPN-RfK_-L3ECWJ0#scrollTo=ar_Tgo_i4nKl
+
+
+
